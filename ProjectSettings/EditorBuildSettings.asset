@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LeartesStudios/Wills Room/Scene/WillsRoom_URP.unity
+    guid: 30573356b1f80d34da0b2e61bb95e0a2
+  m_configObjects: {}
